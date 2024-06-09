@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="contact"
+        android:id="@+id/myhome"
+        android:icon="@drawable/contact"
+        />
+    <item
+        android:title="sarch"
+        android:id="@+id/myhome"
+        android:icon="@drawable/sarch"
+        />
+    <item
+        android:title="gallary"
+        android:id="@+id/myhome"
+        android:icon="@drawable/gallary"
+        />
+    <item
+        android:title="alram"
+        android:id="@+id/myhome"
+        android:icon="@drawable/alarm"
+        />
+    <item
+        android:title="caculater"
+        android:id="@+id/myhome"
+        android:icon="@drawable/units"
+        />
+    <item
+        android:title="call"
+        android:id="@+id/myhome"
+        android:icon="@drawable/call"
+        />
+    <item
+        android:title="video call"
+        android:id="@+id/myhome"
+        android:icon="@drawable/vc"
+        />
+    <item
+        android:title="calendar"
+        android:id="@+id/myhome"
+        android:icon="@drawable/calendar"
+        />
+    <item
+        android:title="camera"
+        android:id="@+id/myhome"
+        android:icon="@drawable/camera"
+        />
+    <item
+        android:title="call missed"
+        android:id="@+id/myhome"
+        android:icon="@drawable/missed"
+        />
+    <item
+        android:title="assignment"
+        android:id="@+id/myhome"
+        android:icon="@drawable/assignment"
+        />
+    <item
+        android:title="comment"
+        android:id="@+id/myhome"
+        android:icon="@drawable/comment"
+        />
+    <item
+        android:title="compress"
+        android:id="@+id/myhome"
+        android:icon="@drawable/compress"
+        />
+    
+
+</menu>
